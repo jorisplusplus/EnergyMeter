@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ETH")(type "KiCad")(uri "${KIPRJMOD}/ETH.pretty")(options "")(descr ""))
+)
